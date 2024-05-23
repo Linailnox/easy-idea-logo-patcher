@@ -1,6 +1,6 @@
 # Easy idea logo patcher
 Simple script to replace IDEA splash logo image
-[English](#How to use)  [简体中文](#如何使用)
+[English](#how-to-use)  [简体中文](#如何使用)
 ## 如何使用
 > 依赖：Windows Java
 
@@ -15,7 +15,7 @@ Simple script to replace IDEA splash logo image
 ## How to use
 > Required dependency:Windows Java
 
-Download [patch.bat](https://raw.githubusercontent.com/Linailnox/easy-idea-logo-patcher/main/patch.bat)
+下载 [patch.bat](https://raw.githubusercontent.com/Linailnox/easy-idea-logo-patcher/main/patch.bat)
 
 Extract /libs/app.jar from the IDEA installation directory and backup it
 
