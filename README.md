@@ -3,6 +3,7 @@ Simple script to replace IDEA splash logo image
 [English](#how-to-use)  [简体中文](#如何使用)
 ## 如何使用
 > 依赖：Windows Java
+
 下载 [patch.bat](patch.bat)
 
 如果IDEA版本号大于2024
@@ -16,6 +17,7 @@ Simple script to replace IDEA splash logo image
 
 ## How to use
 > Required dependency:Windows Java
+
 下载[patch.bat](patch.bat)
 
 If the IDEA version number is greater than 2024
