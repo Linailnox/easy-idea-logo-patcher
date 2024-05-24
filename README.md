@@ -21,7 +21,7 @@ Simple script to replace IDEA splash logo image
 ## How to use
 > Required dependency:Windows Java
 
-下载[patch.bat](patch.bat)
+Download [patch.bat](patch.bat)
 
 If the IDEA version number is greater than 2024
 - Extract `/libs/product.jar` from the IDEA installation directory and backup it
