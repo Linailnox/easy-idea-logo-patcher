@@ -8,6 +8,7 @@ Simple script to replace IDEA splash logo image
 
 如果IDEA版本号大于2024
 - 进入IDEA安装目录的/libs/product.jar并备份
+
 如果IDEA版本号小于2024
 - 进入IDEA安装目录的/libs/app.jar并备份
 
@@ -22,6 +23,7 @@ Simple script to replace IDEA splash logo image
 
 If the IDEA version number is greater than 2024
 - Extract /libs/product.jar from the IDEA installation directory and backup it
+
 If the IDEA version number is less than 2024
 - Extract /libs/app.jar from the IDEA installation directory and backup it
 
