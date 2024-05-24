@@ -3,10 +3,12 @@ Simple script to replace IDEA splash logo image
 [English](#how-to-use)  [简体中文](#如何使用)
 ## 如何使用
 > 依赖：Windows Java
+下载 [patch.bat](patch.bat)
 
-下载 [patch.bat](https://raw.githubusercontent.com/Linailnox/easy-idea-logo-patcher/main/patch.bat)
-
-提取IDEA安装目录的/libs/app.jar并备份
+如果IDEA版本号大于2024
+- 进入IDEA安装目录的/libs/product.jar并备份
+如果IDEA版本号小于2024
+- 进入IDEA安装目录的/libs/app.jar并备份
 
 运行 patch.bat
 
@@ -14,10 +16,12 @@ Simple script to replace IDEA splash logo image
 
 ## How to use
 > Required dependency:Windows Java
+下载[patch.bat](patch.bat)
 
-下载 [patch.bat](https://raw.githubusercontent.com/Linailnox/easy-idea-logo-patcher/main/patch.bat)
-
-Extract /libs/app.jar from the IDEA installation directory and backup it
+If the IDEA version number is greater than 2024
+- Extract /libs/product.jar from the IDEA installation directory and backup it
+If the IDEA version number is less than 2024
+- Extract /libs/app.jar from the IDEA installation directory and backup it
 
 Run patch.bat
 
